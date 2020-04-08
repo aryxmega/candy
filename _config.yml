@@ -1,5 +1,5 @@
 #page title
-page_title                                : Candy                                          # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
+page_title                                : Candy Lane.                                          # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # App Info
 ios_app_id                                :                                 # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
@@ -10,7 +10,7 @@ presskit_download_link                    : https://awwwry.com                  
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
 app_icon                                  : ./assets/candy-app-icon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
-app_name                                  : Candy.                                       # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_name                                  : Candy Lane.                                       # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_description                           : New type of automotive marketplace — a platform designed for enthusiasts, by enthusiasts.
 
@@ -83,7 +83,7 @@ topbar_title_color                        : "#ffffff"
 
 cover_image                               : https://media.giphy.com/media/cR7QtT0dj5RhC/giphy.gif                    # Replace with alternative image path or image URL.
 cover_overlay_color                       : "#000000"
-cover_overlay_transparency                : 0.7
+cover_overlay_transparency                : 0.5
 
 device_color                              : black                                     # Set to: blue, black, yellow, coral or white.
 
@@ -139,3 +139,12 @@ collections:
 
 # Markdown rendering
 markdown: kramdown
+
+compress_html:
+  clippings: all
+  comments: [""]
+  endings: [html, head, body, li, dt, dd, rt, rp, optgroup, option, colgroup, caption, thead, tbody, tfoot, tr, td, th]
+  profile: false
+  blanklines: false
+  ignore:
+    envs: []
