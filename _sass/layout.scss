@@ -11,7 +11,7 @@
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: top;
-	border-radius: 0px 0px 40px 40px;
+	//border-radius: 0px 0px 40px 40px;
 
 }
 
@@ -162,6 +162,10 @@ header {
 	overflow-y: hidden;
 	-webkit-overflow-scrolling: touch;
 	-ms-overflow-style: -ms-autohiding-scrollbar;
+
+	a {
+		font-family: $header;
+	}
 }
 
 @media only screen and (max-width: 768px) {
@@ -637,6 +641,7 @@ footer {
 }
 
 .footerLinks a {
+	font-family: $header;
 	margin-right: 30px;
 }
 
