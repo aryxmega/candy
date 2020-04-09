@@ -1,65 +1,63 @@
 ---
 layout: page
-title: What's New
+title: Progress & Updates
 include_in_header: true
 ---
 
 # Changelog
-Here you can keep a changelog for your app. Edit the markdown based CHANGELOG.md which is located in the _pages directory. The changelog below is simply an example changelog that serves to exemplify how the markdown can be used. You can be as creative as you want with the markdown.
+A simple file which contains a curated, chronologically ordered list of notable changes for each version of this project.
 
 <br>
 
-### `Latest`
-# **Version 2.0**
-This is the first update to our app. Jeez **goodness** by kept more sensually a much far proper exotically precise [here is a link](https://www.google.com) and and illicit hey uninspiring the more sat honey knelt before before bearish bowed lorikeet wolf grandly instead diligently and rhinoceros imperative.
+### `Initial Development`
 
-#### What's New
-- Much far proper exotically precise unaccountable.
-- [Changes to Privacy Policy](/privacypolicy)
+# **Version 0.0**
 
-#### Bug Fixes
-- Much far proper exotically precise unaccountable.
-- [Changes to Privacy Policy](/privacypolicy)
+This version is focused around the planning, design and development of **CVNDY** for its initial release.
 
 <br>
 
-### **Version 2.1**
-Abnormal and formidable against much the before well improper more spent far heron amicably iguana plainly swanky upon mammoth **much paid darn some tapir** some glared save crud more regarding one accommodating gosh cannily and on hungry a more goodness inside merry yikes wedded versus because some a a a shined anteater goldfinch jeez up so and this this a.
-
-#### What's New
-- Much far proper exotically precise unaccountable.
-- Much far proper exotically precise unaccountable.
+#### April 8, 2020
+- Created landing page for CVNDY
+- Realizing [React Native][url-react-native] has a thicc learning curve coming from a design background
 
 <br>
 
-________
-<br>
-
-### `Initial Release`
-# **Version 1.0**
-Cracked a more and iguana a without some echidna a abnormal hello and beat thanks jeepers gnu jeepers until up depending for drooled awfully angelfish relentless much a well wasp some in impala darn and overate greedily wow kookaburra beneath much wistful fluid until and lemming less armadillo redoubtable after much capybara wow that hence interbred timorous loosely oh divisively wherever because jeepers until since as that goodness roadrunner insanely belated physic jeepers hey jeepers much the beside steadfastly up toward indubitably this goodness playful.
+#### March 8, 2020
+- Finalized designs and user flows
+- Started development using [React Native][url-react-native]
 
 <br>
 
-## **Version 1.1**
-Abnormal and formidable against much the before well improper more spent far heron amicably iguana plainly swanky upon mammoth **much paid darn some tapir** some glared save crud more regarding one accommodating gosh cannily and on hungry a more goodness inside merry yikes wedded versus because some a a a shined anteater goldfinch jeez up so and this this a.
-
-#### What's New
-- Much far proper exotically precise unaccountable.
-- Much far proper exotically precise unaccountable.
+#### February 9, 2020
+- Revised visual designs
+- Re-uploaded to [UsabilityHub][url-usabilityhub] to collect further feedback
+- Explored different options for development
 
 <br>
 
-## Version 1.0.1
-That wow robin one and gosh audibly darn that variously less across softly awakened under affectingly wildebeest from jeepers far contemplated and indisputably clung jeepers much mistaken some after mumbled hey certain neatly far alas more trod the swelled rolled permissively so save pert the tapir paradoxical off so then juggled crud a however overslept vehemently kept indisputably anteater walked alas or into.
-
-#### What's New
-- Much far proper exotically precise unaccountable.
-- Much far proper exotically precise unaccountable.
-- Much far proper exotically precise unaccountable.
-
-#### Bug Fixes
-- Improved user sign up experience.
-- Unlike deliberately zebra hen oh jeez understandable. Alas and quit oh snooty unlike deliberately.
+#### January 26, 2020
+- Created initial visual designs
+- Uploaded to [UsabilityHub][url-usabilityhub] to collect data and feedback
 
 <br>
+
+#### January 12, 2020
+- Re-opened CVNDY project after short pause to focus on other projects
+- Revisied wireframes and user flows
+
+<br>
+
+#### November 24, 2019
+- Created initial wireframes and user flows
+
+<br>
+
+#### November 10, 2019
+- Initial planning started
+- Conducted market research for similarilities using SWOT analysis
+
+<br>
+
+[url-usabilityhub]: https://usabilityhub.com/
+[url-react-native]: https://reactnative.dev/

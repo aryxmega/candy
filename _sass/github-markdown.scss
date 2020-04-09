@@ -77,10 +77,10 @@ Markdown CSS adopted from https://github.com/sindresorhus/github-markdown-css
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
   color: rgba(#000000, 0.8);  // Differs from default GitHub markdown styling
-  line-height: 1.5;
+  line-height: 1.6;
   font-family: $font; // Use sitewide font stack instead of hardcoded font-stack
-  font-size: 16px;
-  line-height: 1.5;
+  font-size: 20px;
+  line-height: 1.6;
   word-wrap: break-word;
 }
 
@@ -603,7 +603,7 @@ Markdown CSS adopted from https://github.com/sindresorhus/github-markdown-css
 
 .markdown-body h1,
 .markdown-body h2 {
-  border-bottom: 1px solid #eaecef;
+  //border-bottom: 1px solid #eaecef;
   padding-bottom: .3em;
 }
 
@@ -710,11 +710,12 @@ Markdown CSS adopted from https://github.com/sindresorhus/github-markdown-css
 }
 
 .markdown-body code {
-  background-color: rgba(27,31,35,.05);
+  background-color: rgba(221,50,50,.88);
   border-radius: 3px;
   font-size: 85%;
   margin: 0;
   padding: .2em .4em;
+  color: white;
 }
 
 .markdown-body pre {
