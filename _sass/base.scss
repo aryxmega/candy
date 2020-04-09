@@ -24,7 +24,6 @@ body {
 h1 {
 	font-family: $header;
 	font-size: 3rem;
-	font-weight: 900;
 }
 
 h2 {
@@ -76,8 +75,4 @@ $drop-shadow: 	drop-shadow(0px 5px 10px rgba(#000, 0.1))
 	a {
 		color: white;
 	}
-}
-
-.button {
-	color: white;
 }
