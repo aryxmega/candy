@@ -13,12 +13,12 @@ A simple file which contains a curated, chronologically ordered list of notable 
 
 # **Version 0.0**
 
-This version is focused around the planning, design and development of **CVNDY** for its initial release.
+This version is focused around the planning, design and development of **CANDY** for its initial release.
 
 <br>
 
 #### April 8, 2020
-- Created landing page for CVNDY
+- Created landing page for CANDY
 - Realizing [React Native][url-react-native] has a thicc learning curve coming from a design background
 
 <br>
@@ -43,7 +43,7 @@ This version is focused around the planning, design and development of **CVNDY**
 <br>
 
 #### January 12, 2020
-- Re-opened CVNDY project after short pause to focus on other projects
+- Re-opened CANDY project after short pause to focus on other projects
 - Revisied wireframes and user flows
 
 <br>
