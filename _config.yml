@@ -1,5 +1,5 @@
 #page title
-page_title                                : CVNDY (/ˈkan-dē/) - Automotive Platform                                       # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
+page_title                                : CANDY (/ˈkan-dē/) - Automotive Platform                                       # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # App Info
 ios_app_id                                :                                 # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
@@ -10,7 +10,7 @@ presskit_download_link                    : https://awwwry.com                  
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
 app_icon                                  : ./assets/candy-app-icon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
-app_name                                  : CVNDY.                                       # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_name                                  : CANDY.                                       # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_description                           : A new type of automotive platform — designed for enthusiasts, by enthusiasts.
 
@@ -34,8 +34,8 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : CVNDY
-    description                           : Pronounced candy, is a new platform for gearheads.
+  - title                                 : CANDY
+    description                           : Is a new platform for gearheads.
     fontawesome_icon_name                 : car-side
     
   - title                                 : Available on iPhone
